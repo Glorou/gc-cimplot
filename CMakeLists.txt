@@ -11,6 +11,7 @@ file(GLOB IMGUI_SOURCES
     ../cimgui/imgui/imgui_widgets.cpp
 	../cimgui/imgui/imgui_tables.cpp
 	cimplot.cpp
+    cimplot_impl.cpp
 	implot/implot.cpp
 	implot/implot_demo.cpp
 	implot/implot_items.cpp
